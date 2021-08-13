@@ -1,0 +1,36 @@
+Use Node#12
+Token Name                  = RITZ coin
+Token symbol                = RITZ 
+Supply                      = 1 Trillion 10 ** 12
+Decimals                    = 18
+
+maxTokens                       = 1000000000000
+totalTokensForSale              = 400000000000
+totalTokensForSaleDuringPreICO  = 400000000000
+
+Minimum Sending Amount      = 0.05 ETH
+Maximum Sending Amount      = 5000 ETH
+Token Price                 = 1 ETH = 2000 Tokens
+Soft Cap                    = 5000 ETH
+Hard Cap                    = 10000 ETH
+                PRE-ICO
+Start Date                  = August 21 00:00 UTC  => 1628726400
+End Date                    = August 21 23:59 UTC  => 1628812799
+Bonus in Pre-ICO =          = 20%
+Unsold Tokens of PRE-ICO    = Transferred to Main ICO
+
+                    ICO
+Start Date                  = September 18 00:00 UTC => 1631923200
+End Date                    = September 18 23:59 UTC => 1632009599
+Soft Goal not reached       = Refund to the Investors
+Bonuses in ICO              = Tier One      = 20%
+                            = Tier Two      = 15%
+                            = Tier Three    = 10%
+                            = Tier Four     = 5%
+                            = Tier Other    = 0%
+
+                    Token Allocation
+Public Allocation (ICO)            = 40%
+Early investors bonus Reserved     = 10%
+Founders                           = 35%
+Investors                          = 15%
